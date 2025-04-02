@@ -61,7 +61,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/breast-cancer-nb.git
+   git clone https://github.com/Gyan268/breast-cancer-nb.git
    cd breast-cancer-nb
    ```
 
@@ -74,5 +74,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 📚 References
 
-- Dataset: [UCI Machine Learning Repository – Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 - scikit-learn Naive Bayes: https://scikit-learn.org/stable/modules/naive_bayes.html
